@@ -18,17 +18,16 @@ html {
 }
 
 .header-picture-container {
-    display: block;
-    text-align: center;
+    width: 18rem;
+    margin: 0 auto;
+    padding-top: 3rem;
 }
 
 .header-picture {
     width: 18rem;
-    margin-top: 3rem;
     border-radius: 10000px;
     border: 0.3rem solid white;
     box-shadow: 0 0 0.25rem rgba(0, 0, 0, 0.5);
-    /*to-do: droppt in nächste Zeile, wenn man seite kleiner macht*/
 }
 
 .header-list-item{
